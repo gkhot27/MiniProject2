@@ -1,0 +1,358 @@
+prepost;project_wocid;commit_sha1;author;time;commit message
+pre;alanwilter_acpype;39d011b5101ce1dd62f08b990a07a861712315e2;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1549977864;Removed ACS, it's in bitbucket now
+pre;alanwilter_acpype;06f94f5c50c338ef98dfcde8723ca741f2ac60c2;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1551725121;"While parsing PRMTOP files, ignore non-existent attributes and %COMMENT
+lines"
+pre;alanwilter_acpype;a3e2d34c632b3254a4569725a588799b41133e1f;Alan <3899850+alanwilter@users.noreply.github.com>;1551889744;Typo
+pre;alanwilter_acpype;3999241cb8dae65ba14a98684fa1dfbb05bd118f;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1553263668;Fixed dict.keys list issues thanks to Vedat Durmaz
+pre;alanwilter_acpype;3b2a54f5921c4360f5ec945b3ed718b837cf8e85;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1553264209;Default timeout is now 3h instead of 10h
+pre;alanwilter_acpype;d3e4065beb2c4e276a6d25478148759b99402fa9;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1553264228;Merge branch 'master' of https://github.com/alanwilter/acpype.git
+pre;alanwilter_acpype;0bbe7d357b9f8057d5487be3d3a6d1fe4e49f634;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1553265444;Time stamp updated
+pre;alanwilter_acpype;f3e0c8937ab862d0f32d5c2e37cd8b1abeb4a223;lkagami <luciano.kagami@ufrgs.br>;1553889605;Add Anaconda package files
+pre;alanwilter_acpype;7ffd812bebfb70fb91256e5bd0adab54d9b77b4c;lkagami <luciano.kagami@ufrgs.br>;1553895086;Add Anaconda package files
+pre;alanwilter_acpype;d99be8e17e3f999e06a401e5efdbe5f2fc9a2959;lkagami <luciano.kagami@ufrgs.br>;1553895636;Add Anaconda package files
+post;alanwilter_acpype;8746cb77dfdd7f98e09305361a229d5bfe775b6c;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1562062538;Refactoring ananconda
+post;alanwilter_acpype;e329c51de63c211b026d9e55766e923419c3cf53;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1562063010;Typo
+post;alanwilter_acpype;1f56dcd2b47414c4e20998aef27c7ee19c9bbf4f;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1562074035;Updated citations
+post;alanwilter_acpype;09aebe2c76d9818133e05582a04541f6f4398201;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1562074171;Typo
+post;alanwilter_acpype;9a1b1b1476d8e9f34109892f0c7fa9cbe2465ce6;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1562075095;Updated references and citation
+post;alanwilter_acpype;8c26fb65ace62b7f98941313ad74906122b60697;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1562080382;Release 2019.07.02.16.09
+post;alanwilter_acpype;0c96d6805abf4d9f0ed45a50f50c69c2b6e5bc62;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1562083600;Fixed version number
+post;alanwilter_acpype;760a2e965f13d74cd332bc1e8f08cb2a53e993e5;Alan <3899850+alanwilter@users.noreply.github.com>;1562672932;Updated tutorial
+post;alanwilter_acpype;2e7734a89e0d35c92168cc3d0b0d2bf6d283a2ce;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1562675265;Updated markdown
+post;alanwilter_acpype;da8d9d4278104bd2c388759f2e8264d12026f225;Alan Silva <3899850+alanwilter@users.noreply.github.com>;1562693416;Typos
+pre;aura-healthcare_hrv-analysis;6dcb139b8e279b4b49727852473ae1e8c3615283;Robin Champseix <robin.champseix@gmail.com>;1612601232;renamed link to updated github repo link + added plot in readme
+pre;aura-healthcare_hrv-analysis;22f566692787b39e5378ee933be8178c569871f2;Robin Champseix <robin.champseix@gmail.com>;1612604569;added new parameter to compute pnni features without bias
+pre;aura-healthcare_hrv-analysis;d26ba88aab6df76ce6893248e72dec204ab58189;Robin Champseix <robin.champseix@gmail.com>;1612605569;updated Package version + pushed updated code on PiPy
+pre;aura-healthcare_hrv-analysis;ece02b01aafd4e2c48fc359c7337225cf00d3e57;Robin Champseix <robin.champseix@gmail.com>;1612607366;modified github repo name + url inside README
+pre;aura-healthcare_hrv-analysis;f828d6341e12d3885ba89e88d0b8a14a47b38b66;Robin Champseix <robin.champseix@gmail.com>;1612608159;modified url to repo with renamed hrv-analysis
+pre;aura-healthcare_hrv-analysis;4a23312cf4c2ca5e41a4577838e55f1bb4abe381;Robin Champseix <robin.champseix@gmail.com>;1612608410;"Merge pull request #27 from Aura-healthcare/improvements-submission-JORS
+
+Improvements submission jors"
+pre;aura-healthcare_hrv-analysis;46d1c133e2a6b414ab946a6f7695dffcdc0d053c;Robin Champseix <robin.champseix@gmail.com>;1612950054;fixed url to badges with new repository name
+pre;aura-healthcare_hrv-analysis;0308fb8cab32aa42be96cdfa52ee286c6c8c122e;MinsooYeo <minsooyeo119112@gmail.com>;1617155711;"Update preprocessing.py
+
+interpolate_nan_values function was modified (nan value for start point until it is not nan)"
+pre;aura-healthcare_hrv-analysis;a1f51a8c91f42381fb1c7922a7d4650ac4c4b008;MinsooYeo <minsooyeo119112@gmail.com>;1617156146;"Update preprocessing.py
+
+some error was changed"
+pre;aura-healthcare_hrv-analysis;285019ab52b5dce4a4da89a5df212037fd0973a5;Robin Champseix <robin.champseix@gmail.com>;1618214788;"Merge pull request #30 from minsooyeo/minsooyeo-patch-1
+
+Update preprocessing.py"
+post;aura-healthcare_hrv-analysis;25972cf7def6d1a079627208398a7309535779ec;Alexis COMTE <alexis.g.comte@gmail.com>;1726862168;fix: working LombScargle with recent astropy versions
+post;aura-healthcare_hrv-analysis;a863005eeeb13812350320f84f92b4d9d8401c77;Alexis COMTE <alexis.g.comte@gmail.com>;1727112385;fix: bump astropy version from 3.0.4 to 3.2.2
+post;aura-healthcare_hrv-analysis;7d0489e7583cb528c9947804011ee5e585c26310;alexisgcomte <57090236+alexisgcomte@users.noreply.github.com>;1727200588;"Merge pull request #44 from Aura-healthcare/fix/LombScargle-import
+
+fix: working LombScargle with recent astropy versions"
+post;aura-healthcare_hrv-analysis;fee42243f801d5e3a7c39f0cab3db0ac9c5c63b8;laudmt <laura.dumont@owkin.com>;1727527025;rename misleading function
+post;aura-healthcare_hrv-analysis;7bf99b634962bbe1e663ec8172b990f8e4cc99ec;laudmt <laura.dumont@owkin.com>;1727884687;fix name
+post;aura-healthcare_hrv-analysis;ebd4e44e335f6f2743632b023ba04177c441347a;alexisgcomte <57090236+alexisgcomte@users.noreply.github.com>;1727892542;"Merge pull request #45 from Aura-healthcare/fix/name
+
+fix: rename misleading function"
+post;aura-healthcare_hrv-analysis;3ce33b35103b0ce5efff60b61e36ac089333a478;laudmt <laura.dumont@owkin.com>;1729250521;add uv and publish github workflow
+post;aura-healthcare_hrv-analysis;75a07433ba74984517651b1d3817540a0c70b1dc;laudmt <laura.dumont@owkin.com>;1729255344;fix coverage
+post;aura-healthcare_hrv-analysis;8c78522b2ea01b90ef37e91457c94f4f9d1b7808;laudmt <laura.dumont@owkin.com>;1729255466;fix ci
+post;aura-healthcare_hrv-analysis;7c51a84a6bbd6a5ef158c2cd08a46b7318aac663;laudmt <laura.dumont@owkin.com>;1729255621;fix badge
+pre;dakep_pense-rpkg;c3fb6161f91c51a0af14f1915f61565c2b810a65;davidkep <david@rotinaj.org>;1470887650;Merge branch 'hotfix/0.5.5' into develop
+pre;dakep_pense-rpkg;fbd3b01547c435d590f96cff8553865aba9879f6;davidkep <david@rotinaj.org>;1470960929;Fix estimation of edf for EN penalties
+pre;dakep_pense-rpkg;1cb4037c4a688917ec3dddba04327d58673b64a7;davidkep <david@rotinaj.org>;1470961482;Add reference to edf estimation
+pre;dakep_pense-rpkg;f80eaadf8d29b7c3a72416f38e8868c44a34da08;davidkep <david@rotinaj.org>;1471202916;Fix selection of maximum lambda value and give a warning if M-step always converges to 0-vector
+pre;dakep_pense-rpkg;4548415aab56433e6ab14e3db55165ad374c5ceb;davidkep <david@rotinaj.org>;1471202955;Update version
+pre;dakep_pense-rpkg;4096ef3e3b7bb73c85c8bc7caeb19f6ad4761317;davidkep <david@rotinaj.org>;1471202971;Merge branch 'hotfix/0.5.6'
+pre;dakep_pense-rpkg;4351ea47774e35ef6322b6f02ff902fdb0d2bdfc;davidkep <david@rotinaj.org>;1471202971;Merge branch 'hotfix/0.5.6' into develop
+pre;dakep_pense-rpkg;f3e22dbd1a01a8f9bb5441259098cbe21c0bf7aa;davidkep <david@rotinaj.org>;1471212409;Fix bug in computing edf if the active set is the empty set
+pre;dakep_pense-rpkg;f696f2a62e5110e15796f369b544a365ead72169;davidkep <david@rotinaj.org>;1471491228;Speed up ENPY if alpha = 0, as this is always equal to the RR approximation
+pre;dakep_pense-rpkg;df9d960efbe8f6793d80cb502526b9d316d992fd;davidkep <david@rotinaj.org>;1471547980;If the L1 penalty is 0, don't do LARS but OLS
+post;dakep_pense-rpkg;1f9b5d67aedb3d379c125bd24c43478aa903e708;davidkep <david@rotinaj.org>;1492210698;Fix bug if we only have a single variable
+post;dakep_pense-rpkg;a724598996ec85948e706ac131100e2e0ebf7934;davidkep <david@rotinaj.org>;1492223989;Remove facon
+post;dakep_pense-rpkg;9980891a8b424007c129f549734c36403fa877d9;davidkep <david@rotinaj.org>;1492294896;Add more information to lambda.grid
+post;dakep_pense-rpkg;bb9cc69f2ccd39f530eb3fb417155a395e19d7e3;davidkep <david@rotinaj.org>;1492295170;Extended information in lambda.grid
+post;dakep_pense-rpkg;e3f3377c0ae3ce6d4657ef8b570e097cbcf5a594;davidkep <david@rotinaj.org>;1492295247;change version name
+post;dakep_pense-rpkg;59d275c83dddc22e5f546d55155956fa8d3dd5eb;davidkep <david@rotinaj.org>;1492295287;"Revert ""change version name""
+
+This reverts commit e3f3377c0ae3ce6d4657ef8b570e097cbcf5a594."
+post;dakep_pense-rpkg;d2bcf27dc35cf8ff0051ed12fc2db2bcc22504d0;davidkep <david@rotinaj.org>;1492295336;update dev version
+post;dakep_pense-rpkg;5882692d23125339d39b03d4794d492fb2ec3f94;davidkep <david@rotinaj.org>;1492295354;Update dev version
+post;dakep_pense-rpkg;048ddaae30551760db4c36f9a5b3ba28f5973d2e;davidkep <david@rotinaj.org>;1492569134;Allow decreasing lambda sequence
+post;dakep_pense-rpkg;95e76ad56c1aabd94ea7b4887ad3cf144374ae51;davidkep <david@rotinaj.org>;1492569210;Allow decreasing lambda sequence
+pre;declaredesign_estimatr;8eefd8ef4b120033aa9815ef1f3713782a80999f;Graeme Blair <graemeblair@users.noreply.github.com>;1656215424;Merge branch 'master' into Prep-version-0.30.6-for-CRAN
+pre;declaredesign_estimatr;1a0131a2cb8a891cb902c875c680e8f2228a6651;Graeme Blair <graemeblair@users.noreply.github.com>;1656215432;"Merge pull request #392 from DeclareDesign/Prep-version-0.30.6-for-CRAN
+
+Prep version 0.30.6 for cran"
+pre;declaredesign_estimatr;97aab11a6037562241011aa1fd302fa147c6c887;Graeme Blair <graemeblair@users.noreply.github.com>;1656216579;conditional dependencies
+pre;declaredesign_estimatr;8ce8ad9bcffb67c6afe74d67af920f6a8f5f2204;Graeme Blair <graemeblair@users.noreply.github.com>;1656216782;news
+pre;declaredesign_estimatr;4f1a80c0155f93defa80c300dcf4ce3025530e14;Graeme Blair <graemeblair@users.noreply.github.com>;1656218106;R CMD CHECK
+pre;declaredesign_estimatr;585e207edb09bfcc46cdcbf512ff21c7bd3ab5cf;Graeme Blair <graemeblair@users.noreply.github.com>;1656218114;Merge branch 'new-version-1.0.0' of https://github.com/DeclareDesign/estimatr into new-version-1.0.0
+pre;declaredesign_estimatr;c81d5f461ccf80ab0cc4bbc9f8aec2bf1ac36943;Graeme Blair <graemeblair@users.noreply.github.com>;1656219174;cran prep
+pre;declaredesign_estimatr;d47dd082a527161504c431df8e5b0edf4b6bdb30;Graeme Blair <graemeblair@users.noreply.github.com>;1656221387;submited to cran
+pre;declaredesign_estimatr;2a141f8eaab6d913d210bc481694381db19b565b;Graeme Blair <graemeblair@users.noreply.github.com>;1656221395;submitted to cran
+pre;declaredesign_estimatr;b8a9905d8ba8f369803e5a0849ff53a55f6a535b;Graeme Blair <graemeblair@users.noreply.github.com>;1656872512;remove ivpack
+post;declaredesign_estimatr;4fbfb03bab6048999729cdc5059b4ed49522b2b4;Graeme Blair <graemeblair@users.noreply.github.com>;1690582708;Delete CRAN-SUBMISSION
+post;declaredesign_estimatr;6c0bc2193ea6177e7262ec27fb16ce16d9aff20c;Graeme Blair <graemeblair@users.noreply.github.com>;1690582731;"Merge pull request #394 from DeclareDesign/new-version-1.0.0
+
+New version 1.0.0"
+post;declaredesign_estimatr;29c265deeb59c38b2e8dcf9cc6ac431449f8ffdb;Graeme Blair <graemeblair@users.noreply.github.com>;1690585939;docs
+post;declaredesign_estimatr;d2c66826fdb54bb68d886dca7a6f1a64ee588ab3;Graeme Blair <graemeblair@users.noreply.github.com>;1690586145;docs
+post;declaredesign_estimatr;d6859c8101371ce342113a3da00ab5d1c4884157;Graeme Blair <graemeblair@users.noreply.github.com>;1691523266;docs
+post;declaredesign_estimatr;92ca028e7e4ec531c0950748ad0e0ef341397aa4;Alexander Coppock <acoppock@users.noreply.github.com>;1704485944;add replications badge
+post;declaredesign_estimatr;b7f0b9713162d9f70647a676cfa0381e9c8f5843;Tobias Schmidt <royalts@gmail.com>;1705439670;typo fix
+post;declaredesign_estimatr;1bd9bd86e705affbd127379c20f2fe90311087d5;Graeme Blair <graemeblair@users.noreply.github.com>;1705460893;R update plus C++ change
+post;declaredesign_estimatr;35c7a0abb45e03e90100c30f068076d95fa953eb;Graeme Blair <graemeblair@users.noreply.github.com>;1705467329;url
+post;declaredesign_estimatr;e0b0cfc50d5f5ba458459a03b9578b8a5b2abd6e;Graeme Blair <graemeblair@users.noreply.github.com>;1705470203;docs
+pre;igsio_openigtlinkio;424dd5c9db0a3f494e6e6140d5bd2d6ba65ca97c;Étienne Léger <17100565+errollgarner@users.noreply.github.com>;1548369878;Fixed file names discrepancies in Testing. (#74)
+pre;igsio_openigtlinkio;43fcfa05503ff576276262311725fc02edb1a29d;Kyle Sunderland <sunderlandkyl@gmail.com>;1551285903;Fix incorrect VTK type for received int32 images
+pre;igsio_openigtlinkio;51011693a627cc95db0eec181c450b4b9fa3f416;Kyle Sunderland <sunderlandkyl@gmail.com>;1552078469;Add 100ms delay for connected threads in ConnectionAcceptThreadFunction
+pre;igsio_openigtlinkio;f5bb3b1848f7397bd836beae1682c994357b2427;Sunderlandkyl <sunderlandkyl@gmail.com>;1552341401;"Fix hang in Linux when command response is sent on a CommandCompletedEvent
+
+fix: openigtlink/SlicerOpenIGTLink#73"
+pre;igsio_openigtlinkio;08a348c6266094e29bc5bb8e591a0191eee3c407;Kyle Sunderland <sunderlandkyl@gmail.com>;1553119804;"Add missing PolyDataModifiedEvent
+
+fix openigtlink/SlicerOpenIGTLink#78"
+pre;igsio_openigtlinkio;73469da9a9190cec9b19dcbb1b0a2e5df7b9d566;Kyle Sunderland <sunderlandkyl@gmail.com>;1554751204;"Add ability to track client ID of last received message device for each device
+
+Received messages are now separated into individual circular buffer sections based on their device key, and client id.
+This allows received messages to be associated with a particular client. igtlioDevice::ClientID is set based on the latest received message.
+
+Used for https://github.com/openigtlink/SlicerOpenIGTLink/issues/81"
+pre;igsio_openigtlinkio;53928bb559d4fb78c0e724b90f858cb7f8c2dc1f;Kyle Sunderland <sunderlandkyl@gmail.com>;1555508445;Add IMGMETA, LBMETA and POINT devices and enable GET prefix for IMAGE, IMGMETA, LBMETA, and POINT
+pre;igsio_openigtlinkio;5effea38209c71604c1409c5e21d81bdb09ca6fe;Kyle Sunderland <sunderlandkyl@gmail.com>;1555531152;"Fix Linux build error
+
+Introduced in 53928bb559d4fb78c0e724b90f858cb7f8c2dc1f"
+pre;igsio_openigtlinkio;1c54c393133b0d8fc40458c228e9d4bc985a8fa0;Adam Rankin <adam.rankin@gmail.com>;1572287886;Adding TDATA message handling (#80)
+pre;igsio_openigtlinkio;8ee065c6677589b137800acf1ba4dedb700944db;leochan2009 <leochan2009@hotmail.com>;1572451417;"ENH: Improvements to TDATA handling
+
+1. type information is missing, 
+2. transform name is not a must in processing incoming data. 
+3. Example program TrackingDataServer doesn't set the transform name in the meta info section (#81)"
+post;igsio_openigtlinkio;193dca550697903872482bde26a118251651f433;Adam Rankin <adam.rankin@gmail.com>;1602776296;COMP: Enabling compilation with vtk >= 8.9.0 (#82)
+post;igsio_openigtlinkio;291817d2872da92bbe11a7addc9aadf017489fff;Adam Rankin <adam.rankin@gmail.com>;1602776540;COMP: haha... just testing you guys
+post;igsio_openigtlinkio;a01a8bdf8477d03aebbde0493d92d5b344aba95d;Adam Rankin <adam.rankin@gmail.com>;1603219512;COMP: Fixed vtk module prefix for VTK < 8.9
+post;igsio_openigtlinkio;e7d15c3958d5dd830325d57ac1ce3cf86477a1e5;Adam Rankin <adam.rankin@gmail.com>;1603232366;COMP: Fixing mutex unlock capitalization
+post;igsio_openigtlinkio;401a2dec3f69f4dbf26d38cef30321eff650b1a4;Simon Drouin <drouin.simon@gmail.com>;1604342443;Several fixes to build with VTK 9.0.1 on Mac with GUI enabled and Video enabled. (#85)
+post;igsio_openigtlinkio;b058b9892b56fc334e07132f3f9643442354237f;Adam Rankin <adam.rankin@gmail.com>;1604342978;COMP: remaining fixes for VTK 8.9+ build success
+post;igsio_openigtlinkio;2ebd97aa6ed6a253344d69df4e7fba3d26c8e93a;Adam Rankin <adam.rankin@gmail.com>;1604345379;Update README.md
+post;igsio_openigtlinkio;f48f61d1c3e955f344d0d6c5f72010ecd3c5ff8b;Andras Lasso <lasso@queensu.ca>;1605839587;"BUG: Fixed conversionof POINT message
+
+Pack() call was missing. Added to ImageMeta and LabelMeta messages, too."
+post;igsio_openigtlinkio;854c850ed753941860168860fc19f1c807fc0595;Ole Vegard Solberg <olevs@users.noreply.github.com>;1607356044;"Receive image spacing from image messages (#87)
+
+* Receive image spacing from image messages
+
+* Receive origin from image messages"
+post;igsio_openigtlinkio;32feaaa5fcff433dec4f071cf7aaa9106e5e5124;Kyle Sunderland <sunderlandkyl@gmail.com>;1614109949;"ENH: Mark received image data scalars as modified
+
+Triggers updates for attributes such as scalar range."
+pre;ipeagit_geobr;55e120653bbd02aa3e8c6b27dbced4353364259a;rafapereirabr <rafael.pereira.br@gmail.com>;1660580947;minor changes
+pre;ipeagit_geobr;794164ce75bdfef9ea9c7d32b185cba75cefb401;GitHub Actions <actions@github.com>;1660581313;Built site for geobr: 1.6.599909@55e1206
+pre;ipeagit_geobr;615077186fdcf3f8343c8af4a1096daf6eefea7f;rafapereirabr <rafa.pereira.br@gmail.com>;1660653551;v1.7.0
+pre;ipeagit_geobr;e062f4baf3126f41c0fafc60e4be685720b0614e;GitHub Actions <actions@github.com>;1660653736;Built site for geobr: 1.7.0@6150771
+pre;ipeagit_geobr;60edcacc3e20a18116b3bd0b25b4d3addd8c235a;João Carabetta <joao.carabetta@gmail.com>;1661870284;rename code_abbrev (#299)
+pre;ipeagit_geobr;ff161be83ac17bf5f503dad748e2f25715076811;João Carabetta <joao.carabetta@gmail.com>;1661871576;Update README.md
+pre;ipeagit_geobr;74123a5415e282d36c4d9e166620283ee9ad93da;GitHub Actions <actions@github.com>;1661871712;Built site for geobr: 1.7.0@60edcac
+pre;ipeagit_geobr;4afc74aae192de20906e3a556df31541ba2c393f;GitHub Actions <actions@github.com>;1661873343;Built site for geobr: 1.7.0@ff161be
+pre;ipeagit_geobr;01d099b5c8a1bb0917cd033757cc5e651eaeb8bb;João Carabetta <joao.carabetta@gmail.com>;1661873693;add mirror support (#300)
+pre;ipeagit_geobr;29b76d7d88787b2ae4f69440048195a02227000f;GitHub Actions <actions@github.com>;1661873921;Built site for geobr: 1.7.0@01d099b
+post;ipeagit_geobr;11b05f90087704f556be3ce784c82eb7ad6fa68f;rafapereirabr <rafa.pereira.br@gmail.com>;1675008719;new function read_capitals.R
+post;ipeagit_geobr;9822df944c5fb2b8fbbc1a8fecc113b84718f240;GitHub Actions <actions@github.com>;1675010131;Built site for geobr: 1.7.0999@11b05f9
+post;ipeagit_geobr;0cc3a94dfcf32002c3dbeadd86f6670c41beb896;rafapereirabr <rafa.pereira.br@gmail.com>;1675016705;fix input test for read_capitals.R
+post;ipeagit_geobr;841a4147bdb5445a527393cf20a53c5a4eff2371;GitHub Actions <actions@github.com>;1675016906;Built site for geobr: 1.7.0999@0cc3a94
+post;ipeagit_geobr;caf3a96d8ed661e447b2ac3d08d61a44c91ec274;rafapereirabr <rafa.pereira.br@gmail.com>;1675019013;fix non-ASCII characters in read_capitals
+post;ipeagit_geobr;e657873df544ae7ff275309efe3648ed14bfc2f7;GitHub Actions <actions@github.com>;1675019219;Built site for geobr: 1.7.0999@caf3a96
+post;ipeagit_geobr;0f829bb2c590222ad686ed42a375a3344b91afed;Rafael H M Pereira <rafa.pereira.br@gmail.com>;1676401261;Update README.md
+post;ipeagit_geobr;2683a46a7f4902fee784e3462bc0c8b0dad24ca1;GitHub Actions <actions@github.com>;1676402604;Built site for geobr: 1.7.0999@0f829bb
+post;ipeagit_geobr;76f59b76094aa27bc5ea8c19ecb44305a2ffb3b4;Vitor Sousa <32624576+vss-2@users.noreply.github.com>;1684445007;fix typos in grid_state_correspondence_table.csv
+post;ipeagit_geobr;c9787a742b099373c10939173995a974e187f62c;Rafael H M Pereira <rafa.pereira.br@gmail.com>;1684445313;"Merge pull request #315 from vss-2/master
+
+fix typos in grid_state_correspondence_table.csv"
+pre;juliaopt_cplex.jl;ccde44778f93d65af3c6492e44571af03bc015cc;Oscar Dowson <odow@users.noreply.github.com>;1682466796;Change to organization secret (#434)
+pre;juliaopt_cplex.jl;c0f46ea2202f60761c04d5c9455881cb72ea49bf;Oscar Dowson <odow@users.noreply.github.com>;1694414310;Clarify how to set options in README (#436)
+pre;juliaopt_cplex.jl;eec9f52368e8469a0645216a89ca2cf2d5152b48;Oscar Dowson <odow@users.noreply.github.com>;1698639888;Fix get ConstraintFunction for Indicator constraints (#437)
+pre;juliaopt_cplex.jl;36f8d853cef30c9fe5c8813a19c00a449de42670;Oscar Dowson <odow@users.noreply.github.com>;1698642819;Prep for 1.0.1 and fix compat bounds (#438)
+pre;juliaopt_cplex.jl;844b960831c68df511158026662626ff332c488c;hlyang1992 <hlyang1992@gmail.com>;1701633502;Fix support for MOI.TimeLimitSec (#440)
+pre;juliaopt_cplex.jl;6771aea64c8c2314cd5f4a84870604b683cee881;Oscar Dowson <odow@users.noreply.github.com>;1701635152;Prep for v1.0.2 (#441)
+pre;juliaopt_cplex.jl;6e0fdafc7df51bb710fb3e95f5bb7563ec984f65;Oscar Dowson <odow@users.noreply.github.com>;1707340247;Support CEnum@0.5 (#442)
+pre;juliaopt_cplex.jl;c986eed415235785e551c51ebff9061aa8975e95;Oscar Dowson <odow@users.noreply.github.com>;1709668969;Add indicator constraint to README (#445)
+pre;juliaopt_cplex.jl;e69883b9b27be79c43a72a5e3a1743a204051830;Oscar Dowson <odow@users.noreply.github.com>;1713428608;Update versions in GitHub actions (#447)
+pre;juliaopt_cplex.jl;2fc5e19474078c867ec4bc1c9708d54ff106dd09;Oscar Dowson <odow@users.noreply.github.com>;1715568756;Add Getting help section to README (#448)
+post;juliaopt_cplex.jl;9d767a19d9be0c9c8e09b41d9d0d9fe958000201;Oscar Dowson <odow@users.noreply.github.com>;1736114812;Fix GitHub actions badge in README (#450)
+pre;rrrlw_ripserr;41988e2a9cb73ec1bc011ea1cd1f15d008f290e1;Xinyi (Emily) Zhang <zhangxinyi@ufl.edu>;1626647770;"Add URLs and Descriptions to ""case_predictors"" documentation"
+pre;rrrlw_ripserr;c77ba65abaf27d020d90e6fb1311dbf8de78bbc7;Xinyi (Emily) Zhang <zhangxinyi@ufl.edu>;1626648664;changed character to the ASCII format
+pre;rrrlw_ripserr;896f0dae52802b01b9ac9bef1be1ba5388997c9d;Xinyi (Emily) Zhang <zhangxinyi@ufl.edu>;1626652945;edit format
+pre;rrrlw_ripserr;b1d85827089d001c2ced0f7947bd4b3ff024c113;Raoul <rrrlw@users.noreply.github.com>;1638223452;"Merge pull request #24 from XinyiEmilyZhang/main
+
+Create vignette to demo usage of PH"
+pre;rrrlw_ripserr;9572a0eaaced52a8c1472491605739d1a5dd40e8;Raoul <rrrlw@users.noreply.github.com>;1651165023;fix README
+pre;rrrlw_ripserr;5b3212c50a9ec5f703f557479006386618bc9d42;Jason Cory Brunson <jason.brunson@medicine.ufl.edu>;1654879619;make print method return 'PHom' object invisibly + add test
+pre;rrrlw_ripserr;2cfa58f464df7550b0f14138d7fe27e57a6fe6fa;Jason Cory Brunson <jason.brunson@medicine.ufl.edu>;1656071940;ignore 'ignore' folder during R build
+pre;rrrlw_ripserr;3830d02f42a386ad59e4a537e120a72452b78628;Cory Brunson <jason.brunson@medicine.ufl.edu>;1657392510;"Merge pull request #27 from corybrunson/print
+
+make print method return 'PHom' object invisibly + add test"
+pre;rrrlw_ripserr;74a06584ef5553029b32e8bb567459221dfb6191;Cory Brunson <jason.brunson@medicine.ufl.edu>;1657392529;"Merge pull request #29 from corybrunson/ignore
+
+ignore 'ignore' folder during R build"
+pre;rrrlw_ripserr;6f010c6d39e752b29686449c02fbf3dcbbce1da6;Jason Cory Brunson <jason.brunson@medicine.ufl.edu>;1670518955;formally deprecate  param & ensure backward compatibility
+post;rrrlw_ripserr;4b0536ebb3461086640ce3099935583154174d9b;Cory Brunson <jason.brunson@medicine.ufl.edu>;1728504071;"Merge pull request #34 from corybrunson/max-dim
+
+formally deprecate param & ensure backward compatibility"
+post;rrrlw_ripserr;d08c080dfe00e0db17f6f99e0be15a55c985a4b3;Jason Cory Brunson <jason.brunson@medicine.ufl.edu>;1728570660;update documentation + drop deprecated doctype tag
+pre;rwth-i6_returnn;54212518619a4c08c24a49b97dc93f8391701bb6;Patrick Doetsch <creon@ativ.(none)>;1391981943;fix
+pre;rwth-i6_returnn;9c94ea1fd1d780d481039f09b32b909b0ea48355;doetsch <creon@core.de>;1392397875;crash handling
+pre;rwth-i6_returnn;b16f43f6af0f3ef5fecf981364283d449ddaace3;doetsch <creon@core.de>;1392397887;Merge branch 'master' of github.com:doetsch/crnn
+pre;rwth-i6_returnn;a6efc74b468daa9378282d01252d8936a56e39f3;doetsch <creon@core.de>;1394311238;gpu specific batch allocation
+pre;rwth-i6_returnn;cfa52722fb8c1f1bd0cd7b4a48ea2ae54dfaabd0;doetsch <creon@core.de>;1400252363;last
+pre;rwth-i6_returnn;7189786a2743fc03eb9a5d0d5422a5842786bbbd;Paul Voigtlaender <voigtlaender@i6.informatik.rwth-aachen.de>;1400253198;merged
+pre;rwth-i6_returnn;1cfd5a22ae01919dcf5ebf6fc831c82fb7243f53;Paul Voigtlaender <voigtlaender@i6.informatik.rwth-aachen.de>;1400511063;-added code to extract the ce-errsignal (seems not to work properly yet (seems not to work properly yet)
+pre;rwth-i6_returnn;98be8eca44bb9f7a5f104c4d3d4eb32fe92099ae;pv182253 <p.voigtlaender@googlemail.com>;1400513710;git gui test
+pre;rwth-i6_returnn;5b88cabff048b87ce9814bd95518ccc8b144edd4;Patrick Doetsch <creon@ativ>;1402811442;header information
+pre;rwth-i6_returnn;56f947130ef12809ca462e2c0e0dd02f1e7f377a;Patrick Doetsch <creon@ativ>;1402811460;Merge branch 'master' of github.com:doetsch/crnn
+post;rwth-i6_returnn;37ab30b571e30ad491b66cb47956897ec3660fb0;Patrick Doetsch <doetsch@i6.informatik.rwth-aachen.de>;1410791446;switch to hdf5 file format
+post;rwth-i6_returnn;9737c6196e655995eb5e59422cd6b2fe841658c7;doetsch <patrick.doetsch@gmail.com>;1410975920;hdf5 model files and some python tweaks
+post;rwth-i6_returnn;eba806c3f1d169ee84695e2b79121a75f911cd28;Patrick Doetsch <patrick.doetsch@i6.informatik.rwth-aachen.de>;1410976813;Merge branch 'master' of github.com:doetsch/crnn
+post;rwth-i6_returnn;3db642002f32895353240900d14b54b6c12dac4f;Patrick Doetsch <patrick.doetsch@i6.informatik.rwth-aachen.de>;1410976988;towards open source release
+post;rwth-i6_returnn;e502aa618802677beb01aa79b1411d74cd89d800;Patrick Doetsch <patrick.doetsch@i6.informatik.rwth-aachen.de>;1410985709;transition to hdf5 extraction output
+post;rwth-i6_returnn;04647dc0dbda954c3f42c52a60734d9e915f49e6;doetsch <patrick.doetsch@gmail.com>;1411054897;hdf5 forwarding
+post;rwth-i6_returnn;68665041eee95eac216c5cfb32d0433958dafc0a;doetsch <patrick.doetsch@gmail.com>;1411146656;loading network topology from model
+post;rwth-i6_returnn;d8d1fc123ba41fa7054af3af4fb4fa166fc76f8d;Patrick Doetsch <doetsch@i6.informatik.rwth-aachen.de>;1411393977;fixed forward layer initalization
+post;rwth-i6_returnn;3190add72a2b8208c98e51361ac29a6104109251;Patrick Doetsch <doetsch@i6.informatik.rwth-aachen.de>;1411566055;hdf5 string list creation
+post;rwth-i6_returnn;7a6a2ff1bd361fb56ae4c61e8c879fa0a7da97e6;Patrick Doetsch <doetsch@i6.informatik.rwth-aachen.de>;1411995443;fixed a bug in layer names
+pre;sheffieldml_gpy;b0e66c5cb5c118255f3af3cf479a0543ae9a2e5e;Neil Lawrence <lawrennd@gmail.com>;1621844107;Merge branch 'devel' of https://github.com/lawrennd/GPy into devel
+pre;sheffieldml_gpy;b174b58b79403185615f74586569f661841df316;Neil Lawrence <lawrennd@gmail.com>;1621844385;Fix MPL_AVAILABLE error.
+pre;sheffieldml_gpy;62d735e6a659f356c381fb45dce53e26e7b84338;Eric Kalosa-Kenyon <ekalosak@users.noreply.github.com>;1622075875;"Fix GPy.priors.InverseGamma (#903)
+
+* fixed InverseGamma prior: beforehand, it was a child class of Gamma but it defined a broken __new__ method of its own. Now, it just inherits Gamma's __new__; also added a test that ensures the InverseGamma can be instantiated and integrated into a GPy model
+
+* overwrote misleading inherited methods in InverseGamma, deleted unnecessary repeated code"
+pre;sheffieldml_gpy;4089a662a9e64d3a1fc268a941b690f29a46ef1d;Tim Gates <tim.gates@iress.com>;1622170068;"docs: fix simple typo, symetric -> symmetric (#883)
+
+There is a small typo in doc/source/tuto_creating_new_kernels.rst.
+
+Should read `symmetric` rather than `symetric`."
+pre;sheffieldml_gpy;06f60715a92f7b0cca1546c856bd70632da52bdf;Neil Lawrence <ndl21@cam.ac.uk>;1622233643;Merge branch 'SheffieldML:devel' into devel
+pre;sheffieldml_gpy;111727e139dee0812a596304774779929c42c77d;Neil Lawrence <ndl21@cam.ac.uk>;1622295536;"Merge pull request #928 from lawrennd/devel
+
+Make examples files check if matplotlib is available."
+pre;sheffieldml_gpy;3e19a85575687e37fd6f61174115d7c94d2c96e6;Tao Cui <taocuisunny@gmail.com>;1623119317;"Update priors_plots.py (#929)
+
+Change pb.hist(rvs, 100, normed=True) to pb.hist(rvs, 100, density=True) in file priors_plots.py."
+pre;sheffieldml_gpy;bb1bc5088671f9316bc92a46d356734e34c2d5c0;gehbiszumeis <16896724+gehbiszumeis@users.noreply.github.com>;1639077267;"to_dict() and from_dict() functionality for Coregionalize Kernel and MixedNoise Likelihood class, appveyor CI resurrected (#951)
+
+This PR adds two main things to GPy:
+- to- and from-dict functions for the kernels listed belop
+- a fix for the appveyor CI
+Please see the squashed commit messages listed below.
+Authors: @gehbiszumeis @ppk42 respectively
+Reviewer: @ekalosak 
+
+---
+* new: added to_dict() method to Coregionalize kernel class
+
+* new: added to_dict() method to MixedNoise likelihood class
+
+* fix: made Y_metadata dict content serializable
+
+* fix: typo
+
+* added additional needed parameters to to_dict() method for Coregionalize kernel + added _build_from_input dict method
+
+* new: added possibility to build MixedNoise likelihood from input_dict
+
+* Y_metadata conversion from serializable to np.array when loading from dict
+
+* fix: rework Y_metadata part for compatibility with unittests !minor
+
+* conda cleanup in appveyors pipeline
+
+* conda clean up after conda update
+
+* conda clean before conda update
+
+* try pinning packages for conda
+
+* revert all conda changes
+
+* conda clean all (not only packages)
+
+* use conda update anaconda
+
+* pin conda package
+
+* pin conda package
+
+* try installing charset-normalizer beforehand
+
+* try to get from conda-forge
+
+* revert all conda changes
+
+* Try to fix the conda update challange.
+
+See: https://community.intel.com/t5/Intel-Distribution-for-Python/Conda-update-Conda-fails/td-p/1126174
+
+It is just a try for a different context/(conda version).
+
+* Still fixing build error on appveyor
+
+I also use a newer miniconda version for greater python versions.
+
+* Update appveyor.yml
+
+Thinking it over it decided to use miniconda38 for all python versions unless python 3.5.
+
+* revert miniconda versioning changes
+
+* adjust GPy version in appveyor.yml
+
+* 1st attempt bring the appveyor build to life again
+
+* #955 fixing ci build on appveyor
+
+After bringing the miniconda env to work again, the wrong matplotlib version was used. This commit should fix that.
+
+* #955 Fix CI build
+
+Freezing numpy and scipy was a bad idea.
+I freeze matplotlib  dependend  on the python version only.
+
+* add: built_from_dict method for White Kernel
+
+Co-authored-by: Peter Paul Kiefer <ppk42@users.noreply.github.com>
+Co-authored-by: Peter Paul Kiefer <dafisppk@gmail.com>"
+pre;sheffieldml_gpy;0a9893e839f3c2a06831162fc9f0ee0793bb296d;Yixin Lin <1heart@users.noreply.github.com>;1650212717;"Fix rank>0 thread exiting during SparseGP multiprocessing (#731)
+
+If you run mpiexec -n 2 on any code to try to use MPI multiprocessing for SparseGPRegression, it crashes (see #618) because the rank>1 processes do not have ret defined."
+pre;sheffieldml_gpy;f63ed48b0d4bf043868a0a1729d28003c13fe263;Noam Finkelstein <2919482+nsfinkelstein@users.noreply.github.com>;1650212885;"Add error message for excess inducing points (#746)
+
+The number of inducing points in the latent space defaults to 10, which creates an error if there are fewer than 10 conditions (i.e. output dimension is less than 10). Currently this error shows up somewhat opaquely. This fix makes the error explicit, which may save time for future developers.
+
+The current error shown is:
+
+```
+~/code/anaconda/lib/python3.6/site-packages/GPy/inference/latent_function_inference/vardtc_svi_multiout_miss.py in inference_d(self, d, beta, Y, indexD, grad_dict, mid_res, uncertain_inputs_r, uncertain_inputs_c, Mr, Mc)
+     82         LcInvPsi1_cT = dtrtrs(Lc, psi1_c.T)[0]
+     83         LrInvPsi1_rT = dtrtrs(Lr, psi1_r.T)[0]
+---> 84 
+     85         tr_LrInvPsi2_rLrInvT_LrInvSrLrInvT = (LrInvPsi2_rLrInvT*LrInvSrLrInvT).sum()
+     86         tr_LcInvPsi2_cLcInvT_LcInvScLcInvT = (LcInvPsi2_cLcInvT*LcInvScLcInvT).sum()
+
+ValueError: operands could not be broadcast together with shapes (5,5) (6,6) 
+```"
+post;sheffieldml_gpy;68e5752503471a2ae8eea898cdb273d6bbf5d2ec;KOLANICH <kolan_n@mail.ru>;1676230211;Fix the URLs in package metadata
+post;sheffieldml_gpy;1f34225fc8bcf6d46d867ab414b9f1d239068e7d;KOLANICH <kolan_n@mail.ru>;1676238543;"Move the most of metadata into `setup.cfg`.
+Add `pyproject.toml` according to PEP 517."
+post;sheffieldml_gpy;232b63121dddf92183be08862980ee381915ff52;KOLANICH <kolan_n@mail.ru>;1676239217;Move the most of metadata into `PEP 621`-compliant `pyproject.toml`.
+post;sheffieldml_gpy;3c3ec60dea0941d898c34f86c767e8ced6a000ca;Martin Bubel <37817171+MartinBubel@users.noreply.github.com>;1682094753;"Fix issues encountered in modern python versions (#1011)
+
+* Update setup.py
+
+remove special handling of scipy dependencies for old python versions
+
+* Update __init__.py
+
+replace numpy type by native type
+
+* replace np.bool by bool"
+post;sheffieldml_gpy;b9686fbeb4dc42d39930c00bda9b0e3ee3d6cfd6;Zhenwen Dai <zhenwendai@users.noreply.github.com>;1682095091;Bump the version
+post;sheffieldml_gpy;8ddd14c75fbf14edccd41aa29933af107efc2957;Zhenwen Dai <zhenwendai@users.noreply.github.com>;1682095153;Bump the version
+post;sheffieldml_gpy;1d574f68b59586842f62bfd991e8224f7c0bec00;Zhenwen Dai <zhenwendai@users.noreply.github.com>;1682095558;Merge branch 'deploy' into devel
+post;sheffieldml_gpy;159695944ae067851722b3a2608982dcbf0a9bd2;Zhenwen Dai <zhenwendai@users.noreply.github.com>;1682095585;bump the version
+post;sheffieldml_gpy;54d87b3b5e34f69a1442d4043bdf26bbb704f393;Zhenwen Dai <zhenwendai@users.noreply.github.com>;1682671303;Drop the Python 3.5 from the test env
+post;sheffieldml_gpy;9ec3e50e3b96a10db58175a206ed998ec5a8e3e3;Zhenwen Dai <zhenwendai@users.noreply.github.com>;1682671340;Drop the Python 3.5 from the test env

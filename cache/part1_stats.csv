@@ -1,0 +1,11 @@
+project_wocid,ncommits,nauthors,min_time,max_time,from,to,GH,nstars,nforks,archived,lastGHCommitDate
+alanwilter_acpype,665,18,1508499658,1737363721,2017-10-20,2025-01-20,https://github.com/alanwilter/acpype,263,61,False,2026-09-24
+aura-healthcare_hrv-analysis,168,13,1536830840,1731336181,2018-09-13,2024-11-11,https://github.com/Aura-healthcare/hrv-analysis,460,111,False,2026-06-02
+dakep_pense-rpkg,728,12,1454647156,1723317018,2016-02-05,2024-08-10,https://github.com/dakep/pense-rpkg,5,2,False,2026-01-27
+declaredesign_estimatr,1297,26,1490333150,1737585506,2017-03-24,2025-01-22,https://github.com/DeclareDesign/estimatr,135,22,False,2026-09-21
+igsio_openigtlinkio,592,35,1302128240,1700082731,2011-04-06,2023-11-15,https://github.com/IGSIO/OpenIGTLinkIO,14,26,False,2025-07-18
+ipeagit_geobr,4695,46,1551275115,1737490732,2019-02-27,2025-01-21,https://github.com/ipeaGIT/geobr,959,131,False,2026-09-27
+juliaopt_cplex.jl,567,57,1381612383,1736114812,2013-10-12,2025-01-05,https://github.com/JuliaOpt/CPLEX.jl,139,62,False,2026-07-24
+rrrlw_ripserr,314,16,1518701474,1728570660,2018-02-15,2024-10-10,https://github.com/rrrlw/ripserr,12,7,False,2026-10-01
+rwth-i6_returnn,12167,159,1389707616,1738332966,2014-01-14,2025-01-31,https://github.com/rwth-i6/returnn,377,136,False,2026-10-07
+sheffieldml_gpy,6322,153,1354122175,1736965367,2012-11-28,2025-01-15,https://github.com/SheffieldML/GPy,2169,571,False,2026-10-07
